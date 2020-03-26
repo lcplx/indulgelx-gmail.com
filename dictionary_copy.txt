@@ -1,0 +1,12 @@
+basketball:my hobbies
+music:my hobbies
+food:my hobbies
+97115555:phone
+97662222:phone
+1965 oct 12:mom,dad
+1960 nov 4:mom,dad
+32:my age
+banana:fruits
+apple:fruits
+cats:animal
+dogs:animal

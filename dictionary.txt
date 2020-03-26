@@ -1,0 +1,6 @@
+my hobbies:basketball,music,food
+phone:97115555,97662222
+mom,dad:1965 oct 12,1960 nov 4
+my age:32
+fruits:banana,apple
+animal:cats,dogs
